@@ -23,6 +23,8 @@ Nikita</a></h1>
 ### 🔭 I’m currently studying Master Embedded Systems ...
 ### 🌱 I’m currently exploring Machine learning and Deep Learning ...
 ### 👯 I’m looking to collaborate on Machine Learning based projects
+### Open to work
+### Resume : https://www.cakeresume.com/s--UYFaH3zOJjdrMugU__Yy8Q--/nikita-deshpande
 
 
 
