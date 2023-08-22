@@ -2,7 +2,7 @@
 Nikita</a></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data science+Computer vision+Machine Learning+Generative AI +Enthusiast;There_is_always%20ONE%20MORE%20THING%20to%20LEARN&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data_science+Computer_vision+Machine_Learning+Generative_AI +Enthusiast;There_is_always%20ONE%20MORE%20THING%20to%20LEARN&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -20,10 +20,10 @@ Nikita</a></h1>
 
 
 
-### 🔭 I’m currently studying Master Embedded Systems ...
-### 🌱 I’m currently exploring Machine learning and Deep Learning ...
-### 👯 I’m looking to collaborate on Machine Learning based projects
-### Open to work
+### 🔭 Currently working on Generative AI projects ...
+### 🌱 I love to explore complex datasets ...
+### 👯 I’m looking to collaborate on ML/DL-based projects
+### Open to work in Germany
 ### Resume : https://www.cakeresume.com/s--UYFaH3zOJjdrMugU__Yy8Q--/nikita-deshpande
 
 
