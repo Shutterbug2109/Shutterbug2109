@@ -2,7 +2,7 @@
 Nikita</a></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data_science+Computer_vision+Machine_Learning+Generative_AI +Enthusiast;There_is_always%20ONE%20MORE%20THING%20to%20LEARN&center=true&width=700&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data_science+Computer_vision+Enthusiast;There_is_always%20ONE%20MORE%20THING%20to%20LEARN&center=true&width=700&height=50"></a>
 </p>
 
 <br>
